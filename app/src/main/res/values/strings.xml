@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SICREDI Eventos</string>
+    <string name="icon_sair">Sair</string>
+    <string name="icon_voltar">Voltar</string>
+</resources>
